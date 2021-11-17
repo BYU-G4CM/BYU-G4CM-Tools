@@ -1,0 +1,1 @@
+Save all projects here under separate folders (there should be no "Media" or "Patches" folder here).
